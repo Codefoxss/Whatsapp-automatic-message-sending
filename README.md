@@ -5,7 +5,7 @@ These codes can automatically send messages from WhatsApp at certain times.   Th
 import pywhatkit as kit
 
 number = "+number" #Type the country code of the number you will write
-msg = "Whatsapp Bot Testi : Oyunu bırak " #Message to write
+msg = " " #Message to write
 hour = 16 #hours
 minute = 26 #minute
 second = 00 #second
