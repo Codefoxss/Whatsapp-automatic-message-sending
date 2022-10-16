@@ -14,6 +14,6 @@ kit.sendwhatmsg(number,msg,hour,minute,second)
 
 #or  
 
-#import pywhatkit as kit
+import pywhatkit as kit
 
-#kit.sendwhatmsg("Phone Number", "Message","Hours","Minute","second")
+kit.sendwhatmsg("Phone Number", "Message","Hours","Minute","second")
